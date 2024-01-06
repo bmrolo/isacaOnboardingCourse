@@ -1,7 +1,4 @@
-# isacaOnboardingCourse
-
 # Steps within the Course 
-
 ## Installing Python
 + Status: Not Started
 ## Learning Markdown
