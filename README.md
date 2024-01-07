@@ -1,8 +1,8 @@
 # Steps within the Course 
 ## Installing Python
-+ Status: Not Started
++ Status: Done ✔️
 ## Learning Markdown
-+ Status: done... sorta?
++ Status: Done ✔️
 ## JSON Requests
 + Status: Not Started
 ## Input Validation
