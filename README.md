@@ -4,13 +4,13 @@
 ## Learning Markdown
 + Status: Done ✔️
 ## JSON Requests
-+ Status: Not Started
++ Status: Done ✔️
 ## Input Validation
 + Status: Done ✔️
 ## Postman Calls
 + Status: Not Started
 ## Object Orientation
-+ Status: Not Started
++ Status: Done ✔️
 ## YAML Files
 + Status: Not Started
 ## Hashing Algorithms
