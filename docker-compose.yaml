@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  nextcloud:
+    image: nextcloud
+    container_name: nextcloud
+    ports:
+      - "8080:80"
+    environment:
+      - MYSQL_HOST=db
+      - MYSQL_DATABASE=nextcloud
+      - MYSQL_USER=nextcloud
+      - MYSQL_PASSWORD=nextcloud
+    volumes:
+      - YOUR_NEXTCLOUD_DATA_DIR:/var/www/html
+
+  db:
+    image: mariadb
+    container_name: nextcloud-db
+    environment:
+      - MYSQL_ROOT_PASSWORD=root_password
+      - MYSQL_PASSWORD=nextcloud
+      - MYSQL_DATABASE=nextcloud
+      - MYSQL_USER=nextcloud
+    volumes:
+      - YOUR_NEXTCLOUD_DB_DIR:/var/lib/mysql
+
+  minecraft:
+    image: itzg/minecraft-server
+    container_name: minecraft
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+    volumes:
+      - YOUR_MINECRAFT_DATA_DIR:/data
+
+volumes:
+  YOUR_NEXTCLOUD_DATA_DIR:
+  YOUR_NEXTCLOUD_DB_DIR:
+  YOUR_MINECRAFT_DATA_DIR:
