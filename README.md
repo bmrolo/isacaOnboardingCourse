@@ -8,11 +8,11 @@
 ## Input Validation
 + Status: Done ✔️
 ## Postman Calls
-+ Status: Not Started
++ Status: Done ✔️
 ## Object Orientation
 + Status: Done ✔️
 ## YAML Files
-+ Status: Not Started
++ Status: Done ✔️
 ## Hashing Algorithms
 + Status: Not Started
 ## DevOps Practices
