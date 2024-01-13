@@ -14,7 +14,7 @@
 ## YAML Files
 + Status: Done ✔️
 ## Hashing Algorithms
-+ Status: Not Started
++ Status: Done ✔️
 ## DevOps Practices
 + Status: Not Started
 
