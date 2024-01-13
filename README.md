@@ -16,5 +16,6 @@
 ## Hashing Algorithms
 + Status: Done ✔️
 ## DevOps Practices
-+ Status: Not Started
++ Added Labeler workflow to label all future pull requests
++ Status: Done ✔️
 
