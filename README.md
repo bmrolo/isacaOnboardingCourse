@@ -1,21 +1,12 @@
-# Steps within the Course 
-## Installing Python
-+ Status: Done ✔️
-## Learning Markdown
-+ Status: Done ✔️
-## JSON Requests
-+ Status: Done ✔️
-## Input Validation
-+ Status: Done ✔️
-## Postman Calls
-+ Status: Done ✔️
-## Object Orientation
-+ Status: Done ✔️
-## YAML Files
-+ Status: Done ✔️
-## Hashing Algorithms
-+ Status: Done ✔️
-## DevOps Practices
-+ Added Labeler workflow to label all future pull requests
-+ Status: Done ✔️
-
+## What did I learn?
+> - JSON Requests
+> - Input Validation
+> - Postman Calls
+> - Object Orientation
+> - YAML Files
+> - Hashing Algorithms
+> - DevOps Practices
+> - GitHub Workflows
+## How am I applying this knowledge?
+> - Learning how applications communicate with each other through APIs
+> - Learning about authentication and encryption
